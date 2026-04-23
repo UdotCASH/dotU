@@ -101,22 +101,22 @@ Examples of premium factors:
 ## 🔧 Supported Wallets
 
 ### Browser Wallets
-- **MetaMask** - Chrome, Brave, Firefox
-- **Coinbase Wallet** - Chrome, iOS, Android
-- **Brave Wallet** - Built-in to Brave browser
-- **WalletConnect** - Mobile wallets
-- **Rainbow** - Ethereum wallet
+- **[MetaMask](https://metamask.io/download/)** - Chrome, Brave, Firefox
+- **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)** - Chrome, iOS, Android
+- **[Brave Wallet](https://brave.com/download/)** - Built-in to Brave browser
+- **[WalletConnect](https://walletconnect.com/)** - Mobile wallets
+- **[Rainbow](https://rainbow.download/)** - Ethereum wallet
 
 ### Hardware Wallets
-- **Ledger** - Nano S, Nano X
-- **Trezor** - Model T, One
-- **KeepKey** - Hardware security
+- **[Ledger](https://www.ledger.com/)** - Nano S, Nano X
+- **[Trezor](https://trezor.io/)** - Model T, One
+- **[KeepKey](https://shapeshift.com/keepkey)** - Hardware security
 
 ### Mobile Wallets
-- **Trust Wallet** - iOS, Android
-- **Coinbase Wallet** - iOS, Android
-- **Argent** - Mobile-first
-- **Rainbow** - Mobile Ethereum
+- **[Trust Wallet](https://trustwallet.com/download)** - iOS, Android
+- **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)** - iOS, Android
+- **[Argent](https://www.argent.xyz/)** - Mobile-first
+- **[Rainbow](https://rainbow.download/)** - Mobile Ethereum
 
 ---
 
