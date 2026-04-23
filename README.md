@@ -75,6 +75,7 @@
 
 | Tier | Domain Length | Cost (One-time) |
 |------|---------------|-----------------|
+| **Tier 1** | Ultra-Premium | $100 – $250 |
 | **Tier 2** | 2 characters | $40 – $100 |
 | **Tier 3** | 3 characters | $30 – $100 |
 | **Tier 4** | 4 characters | $20 – $40 |
