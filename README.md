@@ -126,7 +126,7 @@ Examples of premium factors:
 ### Website Hosting
 ```
 yourname.u → IPFS Hash (Web3 Usage)
-yourname.u.onl → U IPFS Gateway (wildcard)
+yourname.u.onl → U IPFS Gateway (Browser Support)
 
 company.u → Business website
 company.u.onl → U IPFS Gateway
