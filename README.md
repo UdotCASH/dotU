@@ -126,7 +126,6 @@ Examples of premium factors:
 ### Website Hosting
 ```
 yourname.U → IPFS hash
-www.yourname.U → Gateway
 yourname.u.onl → UCASH IPFS Gateway (wildcard)
 ```
 
