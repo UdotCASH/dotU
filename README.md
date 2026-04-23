@@ -128,34 +128,34 @@ Examples of premium factors:
 yourname.u → IPFS Hash (Web3 Usage)
 yourname.u.onl → U IPFS Gateway (Browser Support)
 
-company.u → Business website
+company.u → Business website (Web3 Usage)
 company.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### NFT & Crypto Projects
 ```
-project.u → NFT marketplace
+project.u → NFT marketplace (Web3 Usage)
 project.u.onl → U IPFS Gateway (Browser Support)
 
-nft.u → Digital collectibles
+nft.u → Digital collectibles (Web3 Usage)
 nft.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### Personal Branding
 ```
-name.u → Portfolio site
+name.u → Portfolio site (Web3 Usage)
 name.u.onl → U IPFS Gateway (Browser Support)
 
-about.u → Personal page
+about.u → Personal page (Web3 Usage)
 about.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### dApp Frontends
 ```
-app.u → Application
+app.u → Application (Web3 Usage)
 app.u.onl → U IPFS Gateway (Browser Support)
 
-swap.u → DEX interface
+swap.u → DEX interface (Web3 Usage)
 swap.u.onl → U IPFS Gateway (Browser Support)
 ```
 
