@@ -358,37 +358,19 @@ if (typeof window.ethereum !== 'undefined') {
 ## 📖 Resources
 
 ### Official Links
-- **Website:** [u.onl/u](https://u.onl/u)
-- **Register:** [get.unstoppabledomains.com/u](https://get.unstoppabledomains.com/u)
-- **U.CASH:** [u.cash](https://u.cash)
-- **U.ONL:** [u.onl](https://u.onl)
-- **UN4:** [un4.com](https://un4.com)
+- **[Website](https://u.onl/u)** • **[Register](https://get.unstoppabledomains.com/u)** • **[U.CASH](https://u.cash)** • **[U.ONL](https://u.onl)** • **[UN4](https://un4.com)**
 
 ### Social Media
-- **X (@UdotCASH):** [twitter.com/UdotCASH](https://twitter.com/UdotCASH)
-- **X (@ucashx):** [twitter.com/ucashx](https://twitter.com/ucashx)
-- **X (@UdotONL):** [twitter.com/UdotONL](https://twitter.com/UdotONL)
-- **Facebook:** [fb.com/UdotCASH](https://fb.com/UdotCASH)
-- **YouTube:** [youtube.com/@UdotCASH](https://youtube.com/@UdotCASH)
-- **Instagram:** [instagram.com/UdotCASH](https://instagram.com/UdotCASH)
-- **Reddit:** [reddit.com/r/ucash](https://reddit.com/r/ucash)
-- **LinkedIn:** [linkedin.com/company/ucash](https://linkedin.com/company/ucash)
-- **Telegram:** [t.me/ucash](https://t.me/ucash)
+- **[X (@UdotCASH)](https://twitter.com/UdotCASH)** • **[X (@ucashx)](https://twitter.com/ucashx)** • **[X (@UdotONL)](https://twitter.com/UdotONL)** • **[Facebook](https://fb.com/UdotCASH)** • **[YouTube](https://youtube.com/@UdotCASH)** • **[Instagram](https://instagram.com/UdotCASH)** • **[Reddit](https://reddit.com/r/ucash)** • **[LinkedIn](https://linkedin.com/company/ucash)** • **[Telegram](https://t.me/ucash)**
 
 ### Developer Resources
-- **GitHub:** [github.com/UdotCASH](https://github.com/UdotCASH)
-- **ENS Data:** [github.com/UdotCASH/ucash.eth](https://github.com/UdotCASH/ucash.eth)
+- **[GitHub](https://github.com/UdotCASH)** • **[ENS Data](https://github.com/UdotCASH/ucash.eth)**
 
 ### Tutorials
-- [Getting Started Guide](https://u.onl/u)
-- [Wallet Setup](https://get.unstoppabledomains.com/u)
-- [IPFS Integration](https://u.onl)
-- [Unstoppable Domains Documentation](https://docs.unstoppabledomains.com)
+- **[Getting Started Guide](https://u.onl/u)** • **[Wallet Setup](https://get.unstoppabledomains.com/u)** • **[IPFS Integration](https://u.onl)** • **[Unstoppable Domains Documentation](https://docs.unstoppabledomains.com)**
 
 ### Community
-- **Twitter:** [twitter.com/UdotCASH](https://twitter.com/UdotCASH)
-- **Telegram:** [t.me/ucash](https://t.me/ucash)
-- **GitHub:** [github.com/UdotCASH](https://github.com/UdotCASH)
+- **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)** • **[GitHub](https://github.com/UdotCASH)**
 
 ---
 
@@ -455,10 +437,7 @@ if (typeof window.ethereum !== 'undefined') {
 
 ## 📞 Support
 
-- **Website:** [u.cash](https://u.cash)
-- **GitHub:** [github.com/UdotCASH](https://github.com/UdotCASH)
-- **Twitter:** [@UdotCASH](https://twitter.com/UdotCASH)
-- **Telegram:** [t.me/ucash](https://t.me/ucash)
+- **[Website](https://u.cash)** • **[GitHub](https://github.com/UdotCASH)** • **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)**
 
 ---
 
