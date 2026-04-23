@@ -18,7 +18,7 @@
 
 ## 🔍 What is .U?
 
-**.U** (or **.u**) is a Top-Level Domain (TLD) on **Unstoppable Domains**, providing decentralized, censorship-resistant domain names for Web3 applications.
+**.U** (or **.u**) is a Top-Level Domain (TLD) released by **U.ONL**, **U.CASH**, and the **Ucosystem** in partnership with **Unstoppable Domains**, providing decentralized, censorship-resistant domain names for Web3 applications.
 
 ### Key Features
 - ✅ **True Ownership** - Your domain, your keys, your control
