@@ -407,7 +407,7 @@ if (typeof window.ethereum !== 'undefined') {
 **A:** Yes! Unstoppable Domains provides DNS linking for traditional web services.
 
 ### Q: Is .U only for crypto?
-**A:** No! .U works for any website or application through the u.onl IPFS gateway, providing decentralized hosting for all types of content.
+**A:** No! .U works for most websites and applications through the u.onl IPFS gateway, providing decentralized hosting for all types of content.
 
 ---
 
