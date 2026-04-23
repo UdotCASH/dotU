@@ -436,7 +436,6 @@ if (typeof window.ethereum !== 'undefined') {
 ---
 
 ## 📞 Support
-
 **[Website](https://u.cash)** • **[GitHub](https://github.com/UdotCASH)** • **[Twitter](https://twitter.com/UdotCASH)** • **[Telegram](https://t.me/ucash)**
 
 ---
