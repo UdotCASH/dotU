@@ -125,7 +125,7 @@ Examples of premium factors:
 
 ### Website Hosting
 ```
-yourname.u → IPFS hash
+yourname.u → IPFS Hash (Web3 Usage)
 yourname.u.onl → U IPFS Gateway (wildcard)
 
 company.u → Business website
@@ -197,7 +197,7 @@ swap.u.onl → U IPFS Gateway
 #### Adding Websites
 1. Go to your domain dashboard
 2. Click "Manage Website"
-3. Enter your IPFS hash or redirect URL
+3. Enter your IPFS Hash (Web3 Usage) or redirect URL
 4. Save and deploy
 
 #### Subdomain Creation
@@ -235,7 +235,7 @@ const address = await resolver.getAddress('yourname.u');
 
 ### IPFS Integration
 ```
-# Set IPFS hash for your domain
+# Set IPFS Hash (Web3 Usage) for your domain
 ipfs://QmYourHash
 
 # Access via u.onl gateway (wildcard support)
