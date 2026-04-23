@@ -17,7 +17,7 @@
 
 ## 🔍 What is .U?
 
-**.U** is a Top-Level Domain (TLD) on **Unstoppable Domains**, providing decentralized, censorship-resistant domain names for Web3 applications.
+**.U** (or **.u**) is a Top-Level Domain (TLD) on **Unstoppable Domains**, providing decentralized, censorship-resistant domain names for Web3 applications.
 
 ### Key Features
 - ✅ **True Ownership** - Your domain, your keys, your control
@@ -47,7 +47,7 @@
 ### 1. Choose Your Domain
 - Visit **[u.onl/u](https://u.onl/u)** for more information
 - Register at **[get.unstoppabledomains.com/u](https://get.unstoppabledomains.com/u)**
-- Search for your desired `.U` domain
+- Search for your desired `.u` domain
 - Check availability and pricing
 
 ### 2. Connect Your Wallet
@@ -125,26 +125,26 @@ Examples of premium factors:
 
 ### Website Hosting
 ```
-yourname.U → IPFS hash
+yourname.u → IPFS hash
 yourname.u.onl → UCASH IPFS Gateway (wildcard)
 ```
 
 ### NFT & Crypto Projects
 ```
-project.U → NFT marketplace
-nft.U → Digital collectibles
+project.u → NFT marketplace
+nft.u → Digital collectibles
 ```
 
 ### Personal Branding
 ```
-name.U → Portfolio site
-about.U → Personal page
+name.u → Portfolio site
+about.u → Personal page
 ```
 
 ### dApp Frontends
 ```
-app.U → Application
-swap.U → DEX interface
+app.u → Application
+swap.u → DEX interface
 ```
 
 ---
@@ -177,7 +177,7 @@ swap.U → DEX interface
 ### Getting Started
 
 #### Basic Setup
-1. Purchase your `.U` domain
+1. Purchase your `.u` domain
 2. Connect your wallet
 3. Access the manager dashboard
 4. Configure your domain
@@ -217,8 +217,8 @@ swap.U → DEX interface
 ```javascript
 // Ethers.js example
 const provider = new ethers.providers.JsonRpcProvider('https://polygon-rpc.com');
-const resolver = await provider.getResolver('yourname.U');
-const address = await resolver.getAddress('yourname.U');
+const resolver = await provider.getResolver('yourname.u');
+const address = await resolver.getAddress('yourname.u');
 ```
 
 ### IPFS Integration
@@ -230,14 +230,14 @@ ipfs://QmYourHash
 https://yourname.u.onl
 
 # Access via public gateway
-https://yourname.U.ipfs.dweb.link
+https://yourname.u.ipfs.dweb.link
 ```
 
 **UCASH IPFS Gateway:**
 - **Gateway:** `u.onl`
 - **Wildcard:** `*.u.onl`
-- **Example:** `yourname.u.onl` → resolves to your `.U` domain's IPFS content
-- **Direct Integration:** Native support for `.U` domains hosted on IPFS
+- **Example:** `yourname.u.onl` → resolves to your `.u` domain's IPFS content
+- **Direct Integration:** Native support for `.u` domains hosted on IPFS
 
 ---
 
