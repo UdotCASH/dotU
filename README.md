@@ -4,6 +4,7 @@
 
 [![Unstoppable Domains](https://img.shields.io/badge/Unstoppable_Domains-.U-green)](https://unstoppabledomains.com)
 [![TLD](https://img.shields.io/badge/TLD-.U-brightgreen)](https://unstoppabledomains.com)
+[![Registrations](https://img.shields.io/badge/Registrations-22,000%2B-blue)](https://get.unstoppabledomains.com/u)
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-purple)](https://ethereum.org)
 [![Status](https://img.shields.io/badge/Status-Public_Registration-blue)](https://unstoppabledomains.com)
 
