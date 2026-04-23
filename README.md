@@ -414,8 +414,7 @@ if (typeof window.ethereum !== 'undefined') {
 ## 📊 Market Statistics
 
 ### Current Stats
-- **Total Registered:** 2.5M+ domains
-- **Active Sites:** 500K+
+- **Total Registered:** 22,000+ .u domains
 - **Supported Browsers:** 5+
 - **Integrations:** 100+
 
