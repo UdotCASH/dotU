@@ -25,6 +25,7 @@
 - ✅ **Censorship-Resistant** - Cannot be seized or taken down
 - ✅ **Web3 Native** - Perfect for dApps, wallets, and crypto services
 - ✅ **Public Registration** - Available for anyone to register
+- ✅ **IPFS Gateway** - Native wildcard gateway at `*.u.onl`
 
 ---
 
@@ -126,6 +127,7 @@ Examples of premium factors:
 ```
 yourname.U → IPFS hash
 www.yourname.U → Gateway
+yourname.u.onl → UCASH IPFS Gateway (wildcard)
 ```
 
 ### NFT & Crypto Projects
@@ -150,7 +152,8 @@ swap.U → DEX interface
 
 ## 🔗 Integrations
 
-### Website Builders
+### Website Builders & Gateways
+- **u.onl** - UCASH IPFS Gateway for .U domains (*.u.onl)
 - **IPFS** - Decentralized hosting
 - **Fleek** - Web3 hosting
 - **Spheron** - IPFS deployment
@@ -224,9 +227,18 @@ const address = await resolver.getAddress('yourname.U');
 # Set IPFS hash for your domain
 ipfs://QmYourHash
 
-# Access via gateway
+# Access via u.onl gateway (wildcard support)
+https://yourname.u.onl
+
+# Access via public gateway
 https://yourname.U.ipfs.dweb.link
 ```
+
+**UCASH IPFS Gateway:**
+- **Gateway:** `u.onl`
+- **Wildcard:** `*.u.onl`
+- **Example:** `yourname.u.onl` → resolves to your `.U` domain's IPFS content
+- **Direct Integration:** Native support for `.U` domains hosted on IPFS
 
 ---
 
