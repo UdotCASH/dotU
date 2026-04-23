@@ -9,7 +9,7 @@
 
 **The Complete Guide to .U Domains on Unstoppable Domains**
 
-[Website](https://unstoppabledomains.com) • [Register](https://unstoppabledomains.com/search) • [Documentation](#documentation)
+[Website](https://unstoppabledomains.com) • [Register .U](https://get.unstoppabledomains.com/u) • [Documentation](#documentation)
 
 </div>
 
@@ -44,7 +44,7 @@
 ## 🚀 How to Register a .U Domain
 
 ### 1. Choose Your Domain
-- Visit [Unstoppable Domains](https://unstoppabledomains.com)
+- Visit **[get.unstoppabledomains.com/u](https://get.unstoppabledomains.com/u)** to search for `.U` domains
 - Search for your desired `.U` domain
 - Check availability and pricing
 
@@ -418,7 +418,7 @@ if (typeof window.ethereum !== 'undefined') {
 
 **Ready to own your piece of Web3?** 🌐
 
-[Search for .U Domains](https://unstoppabledomains.com/search) • [Learn More](https://docs.unstoppabledomains.com)
+[Search for .U Domains](https://get.unstoppabledomains.com/u) • [Learn More](https://docs.unstoppabledomains.com)
 
 **The future is decentralized. Your .U domain is waiting.** 🟢
 
