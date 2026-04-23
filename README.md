@@ -71,11 +71,27 @@
 
 ## 💰 Pricing
 
-| Domain Length | Cost (One-time) |
-|----------------|-----------------|
-| 3 characters | $500+ |
-| 4 characters | $100+ |
-| 5+ characters | $40+ |
+### Domain Length Tiers
+
+| Tier | Domain Length | Cost (One-time) |
+|------|---------------|-----------------|
+| **Tier 2** | 2 characters | $40 – $100 |
+| **Tier 3** | 3 characters | $30 – $100 |
+| **Tier 4** | 4 characters | $20 – $40 |
+| **Tier 5** | 5 characters | $15 |
+| **Tier 6** | 6 characters | $10 |
+| **Tier 7** | 7 characters | $5 |
+| **Tier 8** | 8+ characters | $2 – $5 |
+
+### Premium Domains
+
+**Premium words and terms** may be assigned to higher pricing tiers regardless of character length. Some second-level domains (SLDs) are more expensive based on their desirability, brandability, or market demand.
+
+Examples of premium factors:
+- Common words (e.g., "buy", "shop", "crypto")
+- Short dictionary terms
+- Brandable names
+- High-demand keywords
 
 **No renewal fees - pay once, own forever!**
 
