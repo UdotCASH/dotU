@@ -419,11 +419,11 @@ if (typeof window.ethereum !== 'undefined') {
 - **Integrations:** 100+
 
 ### Popular Use Cases
-- Personal websites (40%)
-- NFT projects (25%)
-- dApps (20%)
-- Business (10%)
-- Other (5%)
+- Personal websites
+- NFT projects
+- dApps
+- Business
+- Other
 
 ---
 
