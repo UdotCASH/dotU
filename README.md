@@ -126,37 +126,37 @@ Examples of premium factors:
 ### Website Hosting
 ```
 yourname.u → IPFS hash
-yourname.u.onl → UCASH IPFS Gateway (wildcard)
+yourname.u.onl → U IPFS Gateway (wildcard)
 
 company.u → Business website
-company.u.onl → UCASH IPFS Gateway
+company.u.onl → U IPFS Gateway
 ```
 
 ### NFT & Crypto Projects
 ```
 project.u → NFT marketplace
-project.u.onl → UCASH IPFS Gateway
+project.u.onl → U IPFS Gateway
 
 nft.u → Digital collectibles
-nft.u.onl → UCASH IPFS Gateway
+nft.u.onl → U IPFS Gateway
 ```
 
 ### Personal Branding
 ```
 name.u → Portfolio site
-name.u.onl → UCASH IPFS Gateway
+name.u.onl → U IPFS Gateway
 
 about.u → Personal page
-about.u.onl → UCASH IPFS Gateway
+about.u.onl → U IPFS Gateway
 ```
 
 ### dApp Frontends
 ```
 app.u → Application
-app.u.onl → UCASH IPFS Gateway
+app.u.onl → U IPFS Gateway
 
 swap.u → DEX interface
-swap.u.onl → UCASH IPFS Gateway
+swap.u.onl → U IPFS Gateway
 ```
 
 ---
@@ -164,7 +164,7 @@ swap.u.onl → UCASH IPFS Gateway
 ## 🔗 Integrations
 
 ### Website Builders & Gateways
-- **u.onl** - UCASH IPFS Gateway for .U domains (*.u.onl)
+- **u.onl** - U IPFS Gateway for .U domains (*.u.onl)
 - **IPFS** - Decentralized hosting
 - **Fleek** - Web3 hosting
 - **Spheron** - IPFS deployment
@@ -245,7 +245,7 @@ https://yourname.u.onl
 https://yourname.u.ipfs.dweb.link
 ```
 
-**UCASH IPFS Gateway:**
+**U IPFS Gateway:**
 - **Gateway:** `u.onl`
 - **Wildcard:** `*.u.onl`
 - **Example:** `yourname.u.onl` → resolves to your `.u` domain's IPFS content
