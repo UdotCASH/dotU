@@ -51,11 +51,11 @@
 - Check availability and pricing
 
 ### 2. Connect Your Wallet
-- MetaMask
-- Coinbase Wallet
-- WalletConnect
-- Ledger
-- Trezor
+- **[MetaMask](https://metamask.io/download/)**
+- **[Coinbase Wallet](https://www.coinbase.com/wallet/downloads)**
+- **[WalletConnect](https://walletconnect.com/)**
+- **[Ledger](https://www.ledger.com/)**
+- **[Trezor](https://trezor.io/)**
 
 ### 3. Purchase & Mint
 - Pay with crypto (ETH, USDC, etc.)
