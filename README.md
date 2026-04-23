@@ -129,34 +129,34 @@ yourname.u → IPFS Hash (Web3 Usage)
 yourname.u.onl → U IPFS Gateway (Browser Support)
 
 company.u → Business website
-company.u.onl → U IPFS Gateway
+company.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### NFT & Crypto Projects
 ```
 project.u → NFT marketplace
-project.u.onl → U IPFS Gateway
+project.u.onl → U IPFS Gateway (Browser Support)
 
 nft.u → Digital collectibles
-nft.u.onl → U IPFS Gateway
+nft.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### Personal Branding
 ```
 name.u → Portfolio site
-name.u.onl → U IPFS Gateway
+name.u.onl → U IPFS Gateway (Browser Support)
 
 about.u → Personal page
-about.u.onl → U IPFS Gateway
+about.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ### dApp Frontends
 ```
 app.u → Application
-app.u.onl → U IPFS Gateway
+app.u.onl → U IPFS Gateway (Browser Support)
 
 swap.u → DEX interface
-swap.u.onl → U IPFS Gateway
+swap.u.onl → U IPFS Gateway (Browser Support)
 ```
 
 ---
@@ -164,7 +164,7 @@ swap.u.onl → U IPFS Gateway
 ## 🔗 Integrations
 
 ### Website Builders & Gateways
-- **u.onl** - U IPFS Gateway for .U domains (*.u.onl)
+- **u.onl** - U IPFS Gateway (Browser Support) for .u domains (*.u.onl)
 - **IPFS** - Decentralized hosting
 - **Fleek** - Web3 hosting
 - **Spheron** - IPFS deployment
@@ -245,7 +245,7 @@ https://yourname.u.onl
 https://yourname.u.ipfs.dweb.link
 ```
 
-**U IPFS Gateway:**
+**U IPFS Gateway (Browser Support):**
 - **Gateway:** `u.onl`
 - **Wildcard:** `*.u.onl`
 - **Example:** `yourname.u.onl` → resolves to your `.u` domain's IPFS content
