@@ -360,21 +360,35 @@ if (typeof window.ethereum !== 'undefined') {
 ### Official Links
 - **Website:** https://u.onl/u
 - **Register:** https://get.unstoppabledomains.com/u
-- **Docs:** https://docs.unstoppabledomains.com
-- **Blog:** https://blog.unstoppabledomains.com
-- **Twitter:** https://twitter.com/UnstoppableDom
-- **Discord:** https://discord.gg/unstoppabledomains
+- **U.CASH:** https://u.cash
+- **U.ONL:** https://u.onl
+- **UN4:** https://un4.com
+
+### Social Media
+- **X (@UdotCASH):** https://twitter.com/UdotCASH
+- **X (@ucashx):** https://twitter.com/ucashx
+- **X (@UdotONL):** https://twitter.com/UdotONL
+- **Facebook:** https://fb.com/UdotCASH
+- **YouTube:** https://youtube.com/@UdotCASH
+- **Instagram:** https://instagram.com/UdotCASH
+- **Reddit:** https://reddit.com/r/ucash
+- **LinkedIn:** https://linkedin.com/company/ucash
+- **Telegram:** https://t.me/ucash
+
+### Developer Resources
+- **GitHub:** https://github.com/UdotCASH
+- **ENS Data:** https://github.com/UdotCASH/ucash.eth
 
 ### Tutorials
-- [Getting Started Guide](https://docs.unstoppabledomains.com)
-- [Wallet Setup](https://help.unstoppabledomains.com)
-- [IPFS Integration](https://docs.unstoppabledomains.com)
-- [Developer API](https://docs.unstoppabledomains.com)
+- [Getting Started Guide](https://u.onl/u)
+- [Wallet Setup](https://get.unstoppabledomains.com/u)
+- [IPFS Integration](https://u.onl)
+- [Unstoppable Domains Documentation](https://docs.unstoppabledomains.com)
 
 ### Community
-- [Forum](https://community.unstoppabledomains.com)
-- [Support](https://help.unstoppabledomains.com)
-- [GitHub](https://github.com/unstoppabledomains)
+- **Twitter:** https://twitter.com/UdotCASH
+- **Telegram:** https://t.me/ucash
+- **GitHub:** https://github.com/UdotCASH
 
 ---
 
@@ -442,9 +456,10 @@ if (typeof window.ethereum !== 'undefined') {
 
 ## 📞 Support
 
-- **Help Center:** https://help.unstoppabledomains.com
-- **Email:** support@unstoppabledomains.com
-- **Twitter:** @UnstoppableDom
+- **Website:** https://u.cash
+- **GitHub:** https://github.com/UdotCASH
+- **Twitter:** @UdotCASH
+- **Telegram:** https://t.me/ucash
 
 ---
 
@@ -460,7 +475,7 @@ if (typeof window.ethereum !== 'undefined') {
 
 **Ready to own your piece of Web3?** 🌐
 
-[Search for .U Domains](https://get.unstoppabledomains.com/u) • [Learn More](https://docs.unstoppabledomains.com)
+[Search for .U Domains](https://get.unstoppabledomains.com/u) • [Learn More](https://u.onl/u)
 
 **The future is decentralized. Your .U domain is waiting.** 🟢
 
