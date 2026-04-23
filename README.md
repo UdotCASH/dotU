@@ -58,7 +58,7 @@
 - **[Trezor](https://trezor.io/)**
 
 ### 3. Purchase & Mint
-- Pay with crypto (ETH, USDC, etc.)
+- Pay with crypto (ETH, USDC, etc.) or credit card and other payment options
 - Mint to your wallet
 - **You now own it forever** - no renewal fees!
 
