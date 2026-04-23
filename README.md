@@ -127,12 +127,16 @@ Examples of premium factors:
 ```
 yourname.u → IPFS hash
 yourname.u.onl → UCASH IPFS Gateway (wildcard)
+
+company.u → Business website
+company.u.onl → UCASH IPFS Gateway
 ```
 
 ### NFT & Crypto Projects
 ```
 project.u → NFT marketplace
 project.u.onl → UCASH IPFS Gateway
+
 nft.u → Digital collectibles
 nft.u.onl → UCASH IPFS Gateway
 ```
@@ -141,6 +145,7 @@ nft.u.onl → UCASH IPFS Gateway
 ```
 name.u → Portfolio site
 name.u.onl → UCASH IPFS Gateway
+
 about.u → Personal page
 about.u.onl → UCASH IPFS Gateway
 ```
@@ -149,6 +154,7 @@ about.u.onl → UCASH IPFS Gateway
 ```
 app.u → Application
 app.u.onl → UCASH IPFS Gateway
+
 swap.u → DEX interface
 swap.u.onl → UCASH IPFS Gateway
 ```
